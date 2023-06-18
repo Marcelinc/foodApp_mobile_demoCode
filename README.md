@@ -1,5 +1,7 @@
 # foodApp_mobile_demoCode
 
+Mobile application to support expenses among friends
+
 ###Built With
 * [![JavaScript][JavaScript.img]][JavaScript-url]
 * [![ReactNative][ReactNative.img]][ReactNative-url]
